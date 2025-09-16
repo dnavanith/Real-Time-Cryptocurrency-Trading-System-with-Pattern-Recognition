@@ -40,5 +40,3 @@ text
 - **Storage**: In-Memory Hash Maps (~350MB RAM)
 - **Processing**: Vectorized calculations with NumPy/Pandas
 - **Indicators**: 25 custom technical indicators (MA, RSI, MACD, ATR, Bollinger Bands, etc.)
-
-## 📋 Installation
